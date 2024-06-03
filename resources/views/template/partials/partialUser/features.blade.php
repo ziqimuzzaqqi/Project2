@@ -50,7 +50,7 @@
               </p>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 text-center">
-              <img src="assets/img/features-1.png" alt="" class="img-fluid">
+              <img src="{{url('/assetsUrss')}}/img/features-1.png" alt="" class="img-fluid">
             </div>
           </div>
         </div>
@@ -75,7 +75,7 @@
               </ul>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 text-center">
-              <img src="assets/img/features-2.png" alt="" class="img-fluid">
+              <img src="{{url('/assetsUrss')}}/img/features-2.png" alt="" class="img-fluid">
             </div>
           </div>
         </div>
@@ -99,7 +99,7 @@
               </p>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 text-center">
-              <img src="assets/img/features-3.png" alt="" class="img-fluid">
+              <img src="{{url('/assetsUrss')}}/img/features-3.png" alt="" class="img-fluid">
             </div>
           </div>
         </div>
@@ -123,7 +123,7 @@
               </ul>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 text-center">
-              <img src="assets/img/features-4.png" alt="" class="img-fluid">
+              <img src="{{url('/assetsUser')}}/img/features-4.png" alt="" class="img-fluid">
             </div>
           </div>
         </div>
