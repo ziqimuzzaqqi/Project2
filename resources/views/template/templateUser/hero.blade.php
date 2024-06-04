@@ -5,8 +5,8 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Selecao</span></h2>
-          <p class="animate__animated fanimate__adeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Supreme Kost</span></h2>
+          <p class="animate__animated fanimate__adeInUp">Selamat datang di Supreme Kost, tempat tinggal yang menawarkan kenyamanan dan efisiensi bagi Anda yang mencari hunian ideal. Kami mengerti pentingnya memiliki tempat tinggal yang nyaman dan mendukung aktivitas sehari-hari Anda. Dengan berbagai fasilitas dan lokasi strategis, Supreme Kost hadir untuk memenuhi kebutuhan hunian Anda dengan pelayanan terbaik.</p>
           <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
         </div>
       </div>
@@ -14,8 +14,8 @@
       <!-- Slide 2 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 class="animate__animated animate__fadeInDown">Mencari Kost Terdekat?</h2>
+          <p class="animate__animated animate__fadeInUp">Apakah Anda sedang mencari kost yang dekat dengan lokasi strategis? Supreme Kost adalah jawabannya. Kami menawarkan berbagai pilihan kost yang terletak di area yang mudah dijangkau, dekat dengan pusat perbelanjaan, transportasi umum, dan fasilitas penting lainnya. Nikmati kenyamanan tinggal di tempat yang dekat dengan segala kebutuhan Anda.</p>
           <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
         </div>
       </div>
@@ -23,8 +23,8 @@
       <!-- Slide 3 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 class="animate__animated animate__fadeInDown">Mencari Kost Termurah?</h2>
+          <p class="animate__animated animate__fadeInUp">Supreme Kost tidak hanya menawarkan kenyamanan, tetapi juga harga yang bersahabat. Jika Anda mencari kost dengan harga terjangkau tanpa mengorbankan kualitas, kami memiliki solusinya. Dengan berbagai pilihan harga yang kompetitif, Anda bisa menemukan hunian yang sesuai dengan budget Anda, namun tetap mendapatkan fasilitas dan layanan terbaik.</p>
           <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
         </div>
       </div>

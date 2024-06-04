@@ -3,8 +3,8 @@
     <div class="container">
 
       <div class="section-title" data-aos="zoom-out">
-        <h2>Contact</h2>
-        <p>Contact Us</p>
+        <h2>Kontak</h2>
+        <p>Hubungi Kami</p>
       </div>
 
       <div class="row mt-5">

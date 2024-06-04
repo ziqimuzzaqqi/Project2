@@ -10,22 +10,21 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-          <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
-          <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <li><a class="nav-link scrollto active" href="#hero">Beranda</a></li>
+          <li class="dropdown"><a href="#"><span>Lainnya</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
+                <li><a href="#services">Pilihan Kost</a></li>
+                <li><a href="#">Terdekat</a></li>
+                <li><a href="#">Harga</a></li>
             </ul>
-          </li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+        </li>
+        <li><a class="nav-link scrollto" href="#about">Tentang</a></li>
+        <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
         </ul>
+        <form class="d-flex" role="search" style="margin-left: 20px; background: transparent;">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" style="background: rgba(255, 255, 255, 0.5); border: 1px solid rgba(255, 255, 255, 0.5); color: #fff;">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 

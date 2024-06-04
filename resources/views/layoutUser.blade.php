@@ -30,20 +30,20 @@
 
     @include('template.partials.partialUser.about')
 
-    @include('template.partials.partialUser.features')
+    {{-- @include('template.partials.partialUser.features') --}}
 
     @include('template.partials.partialUser.cta')
 
     @include('template.partials.partialUser.services')
-    @include('template.partials.partialUser.porto')
+    {{-- @include('template.partials.partialUser.porto') --}}
 
-    @include('template.partials.partialUser.testimoni')
+    {{-- @include('template.partials.partialUser.testimoni') --}}
 
-    @include('template.partials.partialUser.pricing')
+    {{-- @include('template.partials.partialUser.pricing') --}}
 
-    @include('template.partials.partialUser.faq')
+    {{-- @include('template.partials.partialUser.faq') --}}
 
-    @include('template.partials.partialUser.team')
+    {{-- @include('template.partials.partialUser.team') --}}
 
     @include('template.partials.partialUser.contact')
 

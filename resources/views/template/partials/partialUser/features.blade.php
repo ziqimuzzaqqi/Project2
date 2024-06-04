@@ -5,25 +5,25 @@
       <ul class="nav nav-tabs row d-flex">
         <li class="nav-item col-3" data-aos="zoom-in">
           <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
-            <i class="ri-gps-line"></i>
+            <i class="ri-home-2-line"></i>
             <h4 class="d-none d-lg-block">Modi sit est dela pireda nest</h4>
           </a>
         </li>
         <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="100">
           <a class="nav-link" data-bs-toggle="tab" href="#tab-2">
-            <i class="ri-body-scan-line"></i>
+            <i class="ri-map-2-line"></i>
             <h4 class="d-none d-lg-block">Unde praesenti mara setra le</h4>
           </a>
         </li>
         <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="200">
           <a class="nav-link" data-bs-toggle="tab" href="#tab-3">
-            <i class="ri-sun-line"></i>
+            <i class="ri-map-pin-line"></i>
             <h4 class="d-none d-lg-block">Pariatur explica nitro dela</h4>
           </a>
         </li>
         <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="300">
           <a class="nav-link" data-bs-toggle="tab" href="#tab-4">
-            <i class="ri-store-line"></i>
+            <i class="ri-money-dollar-circle-line"></i>
             <h4 class="d-none d-lg-block">Nostrum qui dile node</h4>
           </a>
         </li>

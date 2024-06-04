@@ -1,5 +1,5 @@
 <!-- ======= Cta Section ======= -->
-<section id="cta" class="cta">
+<section id="cta" class="cta" style="background-image: url('https://th.bing.com/th?id=OIP.W83A4YnT_Q3QEOFhN0IagQHaGu&w=262&h=238&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2'); background-size: cover; background-position: center;">
     <div class="container">
 
       <div class="row" data-aos="zoom-out">
@@ -13,4 +13,4 @@
       </div>
 
     </div>
-  </section><!-- End Cta Section -->
+</section><!-- End Cta Section -->
